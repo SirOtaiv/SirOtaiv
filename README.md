@@ -1,4 +1,4 @@
-# 👋 Hi, I’m SirOtaiv!
+# 👋 Hi, I’m Otavio Rau!
 
 ## 🚀 About Me
 
@@ -11,11 +11,11 @@ My journey is self-taught across every area, guided by best practices and a rele
 ## 🧠 Skills & Technologies
 
 - **Languages & Frameworks:**  
-  React · NextJS · Typescript · Python · Flutter · Dart · React-Native
+  React · NextJS/NestJS · Typescript · Python · FastAPI/Flask/Flet · Flutter/Dart · React-Native · C#/.NET · Java · Spring/Quarkus
 - **DevOps & Cloud:**  
-  Kubernetes · Docker & Compose · Ansible/AWX
+  Kubernetes · Docker & Compose · Ansible/AWX · CI/CD
 - **Systems & Automation:**  
-  IT Systems Provisioning · Resource Management · Automation
+  IT Architecture · IT Systems Provisioning · Resource Management · Automation
 - **Databases:**  
   (SQL & NoSQL, design, optimization, integration)
 
@@ -46,7 +46,7 @@ I bring unique perspectives and solutions, and believe that diversity of thought
 
 ## 📈 Let’s Connect
 
-*(LinkedIn and other links coming soon!)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-murilo-rau-284584196/)
 
 ---
 
